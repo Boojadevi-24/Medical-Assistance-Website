@@ -31,6 +31,12 @@ AI/ML: (If applicable) for disease prediction or chatbot
 
 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/b04c900c-ef74-4a43-8fd1-51a76634e5cf)
+![image](https://github.com/user-attachments/assets/43cc1d02-4ced-4e43-ac4a-c161f1c2039d)
+![image](https://github.com/user-attachments/assets/10834646-53f1-409e-9910-bc29e177b102)
+![image](https://github.com/user-attachments/assets/bfc23d18-55f7-472a-b577-1f6c30a73748)
+![image](https://github.com/user-attachments/assets/8d0c69d7-a991-46fb-82b5-37572255261a)
+
+
 
 
 
